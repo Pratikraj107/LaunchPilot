@@ -103,7 +103,7 @@ export default function OnboardingPage() {
                 </div>
 
                 <div className="space-y-2">
-                  <Label htmlFor="channelsTried">Channels You've Tried (Optional)</Label>
+                  <Label htmlFor="channelsTried">Channels You&apos;ve Tried (Optional)</Label>
                   <Textarea
                     id="channelsTried"
                     placeholder="e.g., Twitter, Product Hunt, Reddit..."

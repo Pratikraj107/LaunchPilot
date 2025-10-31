@@ -83,7 +83,7 @@ export default function PlanPage() {
                     Positioning Strategy
                   </CardTitle>
                   <CardDescription>
-                    Your product's core message and value proposition
+                    Your product&apos;s core message and value proposition
                   </CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-6">
